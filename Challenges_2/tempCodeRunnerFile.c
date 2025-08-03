@@ -1,0 +1,1 @@
+void print_sorted(int arr[],int size);
